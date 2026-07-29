@@ -1,0 +1,10 @@
+{
+  "name": "Control de Asistencia QR",
+  "description": "Control de asistencia con escáner e impresión de códigos QR, base de datos en la nube y reportes mensuales de puntualidad.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
